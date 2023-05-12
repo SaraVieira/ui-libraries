@@ -20,3 +20,4 @@ A list of reccomended and up to date component libraries for your next project
 | Ant Design  | https://ant.design/         | ❌                 | ✅        | ✅        | ✅         | ❌       |
 | Shoelace    | https://shoelace.style/     | ✅                 | ✅        | ✅        | ✅         | ❌       |
 | ariakit     | https://ariakit.org/        | ❌                 | ✅        | ✅        | ✅         | ✅       |
+| Master CSS  | https://css.master.co/      | ✅                 | ✅        | ❌        | ✅         | ❌       |
